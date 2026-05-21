@@ -1,0 +1,82 @@
+book_id,title,author,genres,moods,pace,length,difficulty,year,description
+1,Dune,Frank Herbert,science fiction;politics;adventure,epic;strategic;immersive,medium,long,medium,1965,"Desert politics, ecology, prophecy, and power collide on a planet that controls the galaxy's most valuable resource."
+2,The Left Hand of Darkness,Ursula K. Le Guin,science fiction;literary;anthropology,thoughtful;wintry;philosophical,slow,medium,high,1969,"An envoy studies a world whose culture challenges fixed ideas of gender, loyalty, and belonging."
+3,Project Hail Mary,Andy Weir,science fiction;adventure;humor,clever;hopeful;fast,fast,medium,medium,2021,A lone astronaut wakes with no memory and must solve an extinction-level problem with science and improvisation.
+4,The Martian,Andy Weir,science fiction;survival;humor,witty;resourceful;tense,fast,medium,low,2011,"A stranded astronaut uses engineering, botany, and stubborn optimism to survive Mars."
+5,Neuromancer,William Gibson,science fiction;cyberpunk;noir,gritty;stylish;dark,fast,medium,high,1984,A washed-up hacker is pulled into a dangerous job involving artificial intelligence and corporate power.
+6,Foundation,Isaac Asimov,science fiction;space opera;politics,cerebral;sweeping;strategic,medium,medium,medium,1951,Mathematicians try to preserve knowledge as a galactic empire moves toward collapse.
+7,Hyperion,Dan Simmons,science fiction;literary;space opera,mysterious;grand;haunting,medium,long,high,1989,Pilgrims share stories while traveling toward a terrifying being on a distant world.
+8,The Long Way to a Small Angry Planet,Becky Chambers,science fiction;cozy;found family,warm;hopeful;character-driven,slow,medium,low,2014,A spaceship crew forms tender bonds while tunneling pathways across the galaxy.
+9,The Hobbit,J.R.R. Tolkien,fantasy;adventure;classic,cozy;whimsical;brave,medium,medium,low,1937,A comfort-loving hobbit joins dwarves and a wizard on a quest for treasure and courage.
+10,The Fellowship of the Ring,J.R.R. Tolkien,fantasy;epic;adventure,mythic;earnest;expansive,slow,long,medium,1954,A fellowship carries a dangerous ring across a world shadowed by ancient evil.
+11,A Game of Thrones,George R.R. Martin,fantasy;politics;epic,dark;intricate;brutal,medium,long,high,1996,Noble houses scheme for power while supernatural threats stir beyond the borderlands.
+12,The Name of the Wind,Patrick Rothfuss,fantasy;coming of age;magic,lyrical;romantic;intimate,medium,long,medium,2007,A gifted musician and magician narrates the making and unmaking of his own legend.
+13,Mistborn,Brandon Sanderson,fantasy;heist;magic,inventive;fast;rebellious,fast,long,medium,2006,A street thief joins a crew plotting to overthrow an immortal emperor through metal-based magic.
+14,The Fifth Season,N.K. Jemisin,fantasy;dystopian;literary,urgent;devastating;inventive,medium,long,high,2015,"In a world of recurring catastrophe, oppressed earth-shapers hold the key to survival."
+15,Piranesi,Susanna Clarke,fantasy;mystery;literary,dreamlike;lonely;wonder-filled,slow,short,medium,2020,"A gentle narrator explores an impossible house of endless halls, tides, and statues."
+16,The Night Circus,Erin Morgenstern,fantasy;romance;historical,lush;magical;romantic,slow,medium,low,2011,Two young magicians compete within a mysterious traveling circus that opens only at night.
+17,Pride and Prejudice,Jane Austen,classic;romance;social satire,witty;bright;observant,medium,medium,medium,1813,"Misjudgments, manners, and attraction complicate the path to love and self-knowledge."
+18,Jane Eyre,Charlotte Bronte,classic;gothic;romance,brooding;resilient;intense,slow,long,medium,1847,An orphaned governess seeks independence and love while guarding her moral center.
+19,Wuthering Heights,Emily Bronte,classic;gothic;tragedy,stormy;obsessive;dark,slow,medium,high,1847,"A fierce, destructive bond shapes generations on the Yorkshire moors."
+20,Great Expectations,Charles Dickens,classic;coming of age;social,melancholy;wry;reflective,slow,long,medium,1861,"An orphan's rise in fortune reveals shame, loyalty, and the limits of status."
+21,The Great Gatsby,F. Scott Fitzgerald,classic;literary;tragedy,glamorous;melancholy;sharp,medium,short,medium,1925,Jazz Age wealth and longing gather around a mysterious millionaire and an impossible dream.
+22,To Kill a Mockingbird,Harper Lee,classic;legal;coming of age,compassionate;sober;humane,medium,medium,low,1960,"A child observes courage, prejudice, and justice in a small Southern town."
+23,The Handmaid's Tale,Margaret Atwood,dystopian;literary;political,chilling;controlled;urgent,medium,medium,medium,1985,A woman narrates life under a theocratic regime that controls bodies and language.
+24,Station Eleven,Emily St. John Mandel,literary;post-apocalyptic;speculative,elegiac;hopeful;interwoven,medium,medium,medium,2014,"Artists and survivors carry memory, Shakespeare, and fragile civilization after a pandemic."
+25,Cloud Atlas,David Mitchell,literary;speculative;historical,ambitious;layered;playful,medium,long,high,2004,"Nested stories across centuries explore power, reincurrence, exploitation, and resistance."
+26,The Road,Cormac McCarthy,literary;post-apocalyptic;survival,bleak;tender;spare,slow,medium,medium,2006,A father and son cross a ruined landscape carrying love through extreme scarcity.
+27,Where the Crawdads Sing,Delia Owens,mystery;literary;nature,atmospheric;lonely;suspenseful,medium,medium,low,2018,"A marsh-raised girl becomes entangled with love, isolation, and a murder investigation."
+28,The Secret History,Donna Tartt,mystery;literary;dark academia,elegant;sinister;intellectual,slow,long,high,1992,A group of classics students hides a terrible act beneath beauty and privilege.
+29,Gone Girl,Gillian Flynn,thriller;mystery;domestic noir,twisty;cynical;sharp,fast,medium,medium,2012,A marriage turns into a media spectacle after a woman's disappearance reveals layered deceptions.
+30,The Girl with the Dragon Tattoo,Stieg Larsson,thriller;mystery;crime,dark;investigative;propulsive,medium,long,medium,2005,A journalist and hacker investigate a decades-old disappearance in a powerful family.
+31,Big Little Lies,Liane Moriarty,mystery;domestic;social,wry;suspenseful;sharp,fast,medium,low,2014,Schoolyard politics and private secrets build toward a fatal trivia night.
+32,The Silent Patient,Alex Michaelides,thriller;psychological;mystery,tense;twisty;clinical,fast,medium,low,2019,A psychotherapist tries to understand why a famous painter shot her husband and stopped speaking.
+33,Rebecca,Daphne du Maurier,gothic;mystery;romance,haunting;jealous;atmospheric,slow,medium,medium,1938,A young bride enters a grand estate dominated by the memory of her husband's first wife.
+34,The Thursday Murder Club,Richard Osman,mystery;cozy;humor,warm;clever;playful,fast,medium,low,2020,Retirees in a village community investigate murders with charm and tactical brilliance.
+35,Educated,Tara Westover,memoir;education;family,intense;reflective;resilient,medium,medium,medium,2018,A woman raised in isolation pursues education and remakes her understanding of family.
+36,Becoming,Michelle Obama,memoir;politics;inspiration,warm;reflective;uplifting,medium,long,low,2018,"A former First Lady traces identity, public life, marriage, and purpose."
+37,Born a Crime,Trevor Noah,memoir;humor;history,funny;sharp;moving,fast,medium,low,2016,Comedian Trevor Noah recounts childhood under apartheid and his mother's fierce love.
+38,Sapiens,Yuval Noah Harari,nonfiction;history;big ideas,broad;provocative;clear,medium,long,medium,2011,"A sweeping account of humanity's cognitive, agricultural, imperial, and scientific revolutions."
+39,Atomic Habits,James Clear,self help;productivity;psychology,practical;clear;motivating,fast,medium,low,2018,"Tiny behavior changes compound into stronger systems for identity, work, and life."
+40,"Thinking, Fast and Slow",Daniel Kahneman,psychology;nonfiction;behavioral economics,analytical;dense;fascinating,slow,long,high,2011,Research on cognitive biases explains how intuitive and deliberate thinking shape decisions.
+41,Range,David Epstein,nonfiction;psychology;career,curious;practical;expansive,medium,medium,medium,2019,"Generalists, sampling, and broad experience can outperform early specialization in complex fields."
+42,The Power of Habit,Charles Duhigg,self help;psychology;business,practical;narrative;clear,medium,medium,low,2012,"Stories and research explain how cues, routines, and rewards shape behavior."
+43,Deep Work,Cal Newport,productivity;business;self help,focused;practical;serious,medium,medium,low,2016,A case for distraction-free concentration as a rare and valuable professional skill.
+44,The Lean Startup,Eric Ries,business;startup;innovation,practical;iterative;strategic,medium,medium,low,2011,"Entrepreneurs test assumptions quickly using experiments, feedback, and validated learning."
+45,Zero to One,Peter Thiel,business;startup;strategy,contrarian;concise;strategic,medium,short,medium,2014,"A startup manifesto about monopoly, technology, and creating new markets."
+46,The Psychology of Money,Morgan Housel,finance;psychology;nonfiction,wise;clear;grounded,fast,short,low,2020,"Short essays explore wealth, behavior, risk, luck, and long-term financial judgment."
+47,A Brief History of Time,Stephen Hawking,science;physics;nonfiction,cosmic;curious;challenging,slow,short,high,1988,"Black holes, time, cosmology, and the universe are explained for general readers."
+48,The Immortal Life of Henrietta Lacks,Rebecca Skloot,science;biography;ethics,human;investigative;moving,medium,medium,medium,2010,"The story of HeLa cells connects medical discovery, consent, race, and family history."
+49,Braiding Sweetgrass,Robin Wall Kimmerer,nature;memoir;science,gentle;wise;lyrical,slow,medium,medium,2013,"Botany, Indigenous knowledge, and gratitude become a way of seeing the living world."
+50,Circe,Madeline Miller,mythology;fantasy;literary,lyrical;feminist;lonely,slow,medium,medium,2018,"A misunderstood witch from Greek myth claims power, craft, exile, and love."
+51,The Song of Achilles,Madeline Miller,mythology;romance;historical,tender;tragic;lyrical,medium,medium,low,2011,"Patroclus and Achilles grow from boyhood companionship into mythic, doomed love."
+52,The Book Thief,Markus Zusak,historical;literary;war,tender;sad;hopeful,medium,long,medium,2005,A girl in Nazi Germany steals books while Death narrates love and loss.
+53,All the Light We Cannot See,Anthony Doerr,historical;literary;war,delicate;moving;atmospheric,medium,long,medium,2014,A blind French girl and German radio prodigy move through the devastation of World War II.
+54,The Nightingale,Kristin Hannah,historical;war;family,emotional;brave;dramatic,medium,long,low,2015,Two sisters resist occupation in France through different kinds of courage.
+55,Homegoing,Yaa Gyasi,historical;literary;family saga,powerful;intergenerational;clear,medium,medium,medium,2016,Two half-sisters' descendants trace the long effects of slavery across Ghana and America.
+56,Pachinko,Min Jin Lee,historical;family saga;literary,sweeping;tender;resilient,medium,long,medium,2017,"A Korean family in Japan survives exile, discrimination, ambition, and sacrifice over generations."
+57,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,historical;romance;celebrity,glamorous;emotional;confessional,fast,medium,low,2017,"An aging film star reveals the truth behind her marriages, ambition, and great love."
+58,"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,literary;friendship;gaming,creative;bittersweet;intimate,medium,medium,medium,2022,Two friends build video games and a complicated creative partnership over decades.
+59,Normal People,Sally Rooney,literary;romance;coming of age,intimate;melancholy;precise,medium,short,medium,2018,"Two young people move in and out of love, class tension, and self-understanding."
+60,Lessons in Chemistry,Bonnie Garmus,historical;humor;feminist,bright;witty;uplifting,fast,medium,low,2022,A brilliant chemist becomes a television cooking host and challenges 1960s sexism.
+61,"Red, White & Royal Blue",Casey McQuiston,romance;comedy;politics,sparkling;funny;hopeful,fast,medium,low,2019,The son of a U.S. president falls for a British prince amid public pressure.
+62,Beach Read,Emily Henry,romance;comedy;contemporary,warm;witty;emotional,fast,medium,low,2020,"Two rival writers swap genres while confronting grief, chemistry, and creative blocks."
+63,The Kiss Quotient,Helen Hoang,romance;contemporary;neurodiversity,sweet;steamy;heartfelt,fast,medium,low,2018,An econometrician hires an escort for dating lessons and finds unexpected intimacy.
+64,The House in the Cerulean Sea,TJ Klune,fantasy;cozy;found family,warm;whimsical;hopeful,medium,medium,low,2020,A caseworker evaluates magical children and discovers a gentler version of courage.
+65,Good Omens,Terry Pratchett and Neil Gaiman,fantasy;comedy;apocalypse,absurd;clever;playful,fast,medium,low,1990,An angel and demon try to prevent the apocalypse because they rather like Earth.
+66,American Gods,Neil Gaiman,fantasy;mythology;road novel,strange;dark;mythic,medium,long,medium,2001,Old gods and new powers clash across an uncanny American landscape.
+67,Neverwhere,Neil Gaiman,fantasy;urban;adventure,dark;wonder-filled;quirky,fast,medium,low,1996,"A man slips into a hidden London of angels, monsters, and forgotten people."
+68,Kindred,Octavia E. Butler,science fiction;historical;slavery,urgent;harrowing;powerful,fast,medium,medium,1979,A Black woman is repeatedly pulled through time to a plantation where survival has impossible costs.
+69,Parable of the Sower,Octavia E. Butler,science fiction;dystopian;social,urgent;visionary;bleak,medium,medium,medium,1993,A young woman with hyperempathy builds a survival philosophy amid social collapse.
+70,The Three-Body Problem,Cixin Liu,science fiction;hard sci-fi;first contact,cerebral;vast;unsettling,slow,long,high,2008,"Humanity faces an alien civilization through physics, history, and strategic uncertainty."
+71,Klara and the Sun,Kazuo Ishiguro,literary;science fiction;philosophical,quiet;tender;strange,slow,medium,medium,2021,"An artificial friend observes love, illness, and what humans ask technology to become."
+72,The Remains of the Day,Kazuo Ishiguro,literary;historical;character study,restrained;melancholy;precise,slow,medium,medium,1989,"An English butler looks back on loyalty, missed love, and self-deception."
+73,The Alchemist,Paulo Coelho,fable;inspiration;adventure,simple;uplifting;spiritual,fast,short,low,1988,"A shepherd follows dreams, omens, and desire in search of treasure and purpose."
+74,The Midnight Library,Matt Haig,speculative;inspiration;contemporary,reflective;hopeful;accessible,fast,medium,low,2020,A woman explores alternate lives in a library between life and death.
+75,Anxious People,Fredrik Backman,contemporary;humor;ensemble,warm;messy;compassionate,fast,medium,low,2019,A failed bank robbery traps strangers whose vulnerabilities slowly connect.
+76,A Man Called Ove,Fredrik Backman,contemporary;humor;community,gruff;heartwarming;funny,medium,medium,low,2012,A lonely curmudgeon is pulled back into life by neighbors who need him.
+77,The Shadow of the Wind,Carlos Ruiz Zafon,historical;mystery;literary,gothic;romantic;bookish,medium,long,medium,2001,A boy discovers a forgotten novel and a dangerous mystery in postwar Barcelona.
+78,The Priory of the Orange Tree,Samantha Shannon,fantasy;epic;dragons,grand;queer;adventurous,medium,long,medium,2019,"Queens, mages, and dragon riders face a world-threatening ancient force."
+79,Babel,R.F. Kuang,fantasy;historical;dark academia,scholarly;angry;tragic,slow,long,high,2022,"Translation magic powers empire, forcing students to confront language, violence, and resistance."
+80,Yellowface,R.F. Kuang,literary;satire;publishing,sharp;uncomfortable;fast,fast,medium,medium,2023,"A writer steals a manuscript and spirals through ambition, racism, and literary scandal."
+81,Sea of Tranquility,Emily St. John Mandel,speculative;literary;time travel,elegiac;quiet;interwoven,medium,short,medium,2022,"Time, art, simulation, and pandemics echo through linked lives across centuries."
